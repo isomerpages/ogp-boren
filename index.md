@@ -28,4 +28,8 @@ sections:
       subtitle: Infobar Subtitle
       description: Infobar description
       button: Button Text
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
 ---
