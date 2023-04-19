@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Departments/.keep
       - Co Curricular Activities/.keep
       - Learning for Life Programme/.keep
       - Applied Learning Programme/.keep
