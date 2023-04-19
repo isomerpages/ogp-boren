@@ -13,5 +13,11 @@ links:
   - title: Programmes
     url: /programmes/departments/english
     sublinks:
-      - title: Applied Learning Programmes
+      - title: Departments
+        url: programmes/departments/english/
+      - title: Applied Learning Programme
         url: /programmes/applied-learning-programme
+      - title: Co Curricular Activities
+        url: /programmes/co-curricular-activities
+      - title: Learning for Life Programme
+        url: /programmes/learning-for-life-programme
