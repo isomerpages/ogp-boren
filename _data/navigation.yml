@@ -11,5 +11,7 @@ links:
   - title: Content
     url: /content/
   - title: Programmes
-    url: /permalink
-    sublinks: []
+    url: /programmes/department/english
+    sublinks:
+      - title: Applied Learning Programmes
+        url: /programmes/applied-learning-programmes
