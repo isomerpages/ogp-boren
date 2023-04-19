@@ -53,4 +53,3 @@ Submit your nominations online by clicking on the URLs or scanning the QR codes 
 [https://go.gov.sg/oyea2023](https://go.gov.sg/oyea2023)
 
 <img src="https://d33wubrfki0l68.cloudfront.net/91b806f9a195cc6f8e9852e2da4bd43698c42f42/9a5ba/images/oyea2023-poster.png">
-
