@@ -2,4 +2,5 @@ collections:
   programme:
     output: true
     order:
+      - Applied Learning Programme/.keep
       - Departments/.keep
