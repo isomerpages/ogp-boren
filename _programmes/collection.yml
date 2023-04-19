@@ -2,8 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - Departments/English.md
-      - Departments/.keep
       - Co Curricular Activities/.keep
       - Learning for Life Programme/.keep
       - Applied Learning Programme/Applied Learning Page.md
