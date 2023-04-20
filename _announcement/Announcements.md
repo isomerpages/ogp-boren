@@ -52,4 +52,31 @@ Submit your nominations online by clicking on the URLs or scanning the QR codes 
 
 [https://go.gov.sg/oyea2023](https://go.gov.sg/oyea2023)
 
-<img src="https://d33wubrfki0l68.cloudfront.net/91b806f9a195cc6f8e9852e2da4bd43698c42f42/9a5ba/images/oyea2023-poster.png">
+<img style="width:60%" src="https://d33wubrfki0l68.cloudfront.net/91b806f9a195cc6f8e9852e2da4bd43698c42f42/9a5ba/images/oyea2023-poster.png">
+
+
+<img style="width:60%" src="/images/hero-banner.png">
+
+<figcaption>
+<strong> Celebration Of Pongal Or Indian Harvest Festival </strong>
+</figcaption>
+
+
+<figure>
+
+<img style="width:60%" src="/images/hero-banner.png">
+
+<figcaption> <strong> Mr Tan </strong> 
+	<br> Head of Department <br> Email: mrtan@school.edu.sg</figcaption>
+
+</figure>
+
+
+
+
+![](/images/hero-banner.png)
+
+
+
+
+
