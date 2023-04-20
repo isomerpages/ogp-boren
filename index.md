@@ -11,12 +11,12 @@ sections:
       key_highlights:
         - title: Announcement
           description: ""
-          url: /announcement/announcement
+          url: /announcements/announcements/
         - title: Quicklinks
           description: ""
           url: ""
   - infobar:
       title: News & Announcement
       button: Click here
-      url: /announcement
+      url: /announcements/announcements/
 ---
