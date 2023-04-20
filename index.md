@@ -15,4 +15,8 @@ sections:
         - title: Quicklinks
           description: ""
           url: ""
+  - infobar:
+      title: News & Announcement
+      button: Click here
+      url: /announcement
 ---
