@@ -2,5 +2,5 @@ collections:
   announcement:
     output: true
     order:
-      - Example Title.md
+      - Example Title#.md
       - Announcements.md
