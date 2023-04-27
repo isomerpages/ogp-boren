@@ -2,5 +2,5 @@ collections:
   departments:
     output: true
     order:
-      - Chinese.md
       - English.md
+      - Chinese.md
