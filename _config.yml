@@ -53,7 +53,7 @@ staging: https://staging.dex24i1d6mwv7.amplifyapp.com
 prod: https://master.dex24i1d6mwv7.amplifyapp.com
 resources_name: test
 shareicon: /images/isomer-logo.svg
-is_government: false
+is_government: true
 facebook-pixel: ""
 google_analytics: ""
 google_analytics_ga4: ""
