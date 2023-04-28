@@ -6,11 +6,9 @@ description: ""
 ### Family
 
 <style> 
-	@media (max-width: 767px) 
+	@media (max-width: 100px) 
 	{ .hidden-mobile { display: none; } 
 	} 
 </style>
 
 <img src="/images/ogp-logo-spacing.png" style="width:100%" class="hidden-mobile">
-
-
