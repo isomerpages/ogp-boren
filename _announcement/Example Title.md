@@ -3,40 +3,7 @@ title: Example Title
 permalink: /announcement/permalink/
 description: ""
 ---
-### General Information on Healthier SG
-
-<ul class="jekyllcodex_accordion">
-  <li>
-    <input id="accordion1" type="checkbox">
-    <label for="accordion1">Test1 Header</label>
-    <div>
-			<p><strong>Test1 Title</strong></p><strong>
-
-<p>Test1 Text</p>
-    </strong></div><strong>
-	</strong></li><strong>  
-  <li>
-    <input id="accordion2" type="checkbox">
-    <label for="accordion2">Test2 Header </label>
-    <div>
-		<p>	Test2 Title</p>
-
-<p>Test2 Text</p>
-</div>
-  </li>
-  <li>
-    <input id="accordion3" type="checkbox">
-    <label for="accordion3">Will the care provided by different GPs and polyclinics under Healthier SG be the same?</label>
-    <div>
-      <p>
-        The level of care you receive will be consistent no matter which doctor you choose to enrol with under Healthier SG. There are standard care protocols to guide our GPs in managing chronic conditions such as diabetes, hypertension and lipid disorders. The protocols will also cover health screenings, medications, lifestyle adjustments, and referrals to specialist and acute care when necessary.</p>
-
-<p>We recommend that you choose a family clinic that is convenient for you and that you are comfortable with.</p>
-    </div>
-  </li>
-</strong></ul><strong>
-
-### Benefits
+### My Accordion
 
 <ul class="jekyllcodex_accordion">
   <li>
@@ -237,4 +204,4 @@ Can we enrol our caregivers or family members?</label>
 </p>
     </div>
   </li>
-</ul></strong>
+</ul>
