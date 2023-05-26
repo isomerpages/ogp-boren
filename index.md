@@ -15,6 +15,8 @@ sections:
         - title: Quicklinks
           description: ""
           url: ""
+      title: Global Knowledge Sharing Platform for <br> Patient Safety
+      subtitle: Global Knowledge Sharing <br> Platform for <br> Patient Safety
   - infobar:
       title: News & Announcement
       button: Click here
