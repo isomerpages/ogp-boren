@@ -16,7 +16,7 @@ sections:
           description: ""
           url: ""
       title: Global Knowledge<br> Sharing Platform for<br> Patient Safety
-      subtitle: Global Knowledge Sharing <br> Platform for <br> Patient Safety
+      subtitle: Global Knowledge<br> Sharing Platform for<br> Patient Safety
   - infobar:
       title: News & Announcement
       button: Click here
