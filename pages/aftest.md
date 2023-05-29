@@ -40,15 +40,12 @@ description: ""
 			</div>
 		</div>
 	</div>
-
-
-<br>
-<h4 style="text-transform: uppercase; color: black;"><b>products</b></h4>
-	<div style="display: flex; flex-wrap: wrap;">
-		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
-			<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?export=download&amp;id=1iCOyIZ_r4MFFqM7-UQ5P3ZBJIuECQ8xw">
-			<div class="flex-paragraph">
-				<h6 style="text-transform: uppercase; color: black;">Purple Tea Drink</h6><p>Our purple tea beverage is carefully crafted by steeping and brewing the purple tea leaves to perfection to achieve an optimal balance of taste and health benefits. AsiaFarm Purple tea, being the world's first purple tea variety, offers a unique and exceptional drinking experience that tea enthusiasts should not miss. The tea's distinctive purple color results from its high levels of anthocyanins, potent antioxidants that can safeguard against various health issues. Its smooth and invigorating taste, natural sweetness, and low caffeine content make it a healthy and delicious alternative to traditional tea or coffee. It's worth noting that purple tea shares the same tea plant as green and black tea, but stands out with its abundant polyphenols, antioxidants, and anthocyanins, surpassing its peers in terms of health benefits.</p>
+<h4 style="text-transform: uppercase; color: black;"><b>Products</b></h4>
+<div style="display: flex; flex-wrap: wrap;">
+	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
+		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?export=download&amp;id=1iCOyIZ_r4MFFqM7-UQ5P3ZBJIuECQ8xw"><div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Purple Tea Drink</h6>
+			<p>Our purple tea beverage is carefully crafted by steeping and brewing the purple tea leaves to perfection to achieve an optimal balance of taste and health benefits. AsiaFarm Purple tea, being the world's first purple tea variety, offers a unique and exceptional drinking experience that tea enthusiasts should not miss. The tea's distinctive purple color results from its high levels of anthocyanins, potent antioxidants that can safeguard against various health issues. Its smooth and invigorating taste, natural sweetness, and low caffeine content make it a healthy and delicious alternative to traditional tea or coffee. It's worth noting that purple tea shares the same tea plant as green and black tea, but stands out with its abundant polyphenols, antioxidants, and anthocyanins, surpassing its peers in terms of health benefits.</p>
 			</div>
 		</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
@@ -56,8 +53,8 @@ description: ""
 			<div class="flex-paragraph">
 				<h6 style="text-transform: uppercase; color: black;">AsiaFarm Healthier Choice BIB Beverages</h6>
 				<p>Introducing Asia Farm BIB, the perfect solution for businesses looking to provide fresh and healthy beverages. Our BIB packaging is designed to maintain the freshness of the contents while being environmentally friendly.</p>
-				<p>Our beverages are made with fresh brewed, freshly squeezed, real fruit juice with minimal sugar, providing a healthier beverage option for health-conscious consumers. With the use of an automated dispensing machine, businesses can save time and labor expenses while offering the convenience of easily dispensing delicious and nutritious beverages.</p>
-				<p>Asia Farm BIB is an excellent match for buffets, self-service restaurants, and hotels. With the combination of convenient packaging and dispensing system, along with the flavorful and nutritious beverage choices, it's the perfect alternative for both businesses and customers.</p>
+				<p>Our beverages are made with fresh brewed, freshly squeezed, real fruit juice with minimal sugar, providing a healthier beverage option for health-conscious consumers. With the use of an automated dispensing machine, businesses can save time and labor expenses while offering the convenience of easily dispensing delicious and nutritious beverages.</p><p>Asia Farm BIB is an excellent match for buffets, self-service restaurants, and hotels. With the combination of convenient packaging and dispensing system, along with the flavorful and nutritious beverage choices, it's the perfect alternative for both businesses and customers.</p>
 			</div>
 		</div>
-</div></div>
+	</div>
+</div>
